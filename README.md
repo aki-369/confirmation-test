@@ -22,3 +22,5 @@ Laravel 環境構築
 URL
 ・開発環境：http://localhost/
 ・phpMyAdmin：http://localhost:8080/
+
+![confirmation-test drawio](https://github.com/aki-369/confirmation-test/assets/161927378/f63a619c-059c-4320-a118-4e612ea9ba59)
