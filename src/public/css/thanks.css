@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    width: 1381px;
+    height: 365px;
+    max-width: 100%;
+    margin: 319px auto;
+    text-align: center;
+}
+
+.backgraound-text {
+    display: inline-block;
+    position: absolute;
+    font-family: "Inika", serif;
+    font-size: 280px;
+    font-weight: bold;
+    color: rgba(139, 121, 105, 0.05);
+    white-space: nowrap;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.front-text {
+    display: inline-block;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    color: #8B7969;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    text-align: center;
+}
+
+.thanks-button {
+    width: 160px;
+    height: 60px;
+    padding: 10px 40px;
+    margin-top: 220px;
+    font-size: 20px;
+    color: #fff;
+    background: #82756A;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    z-index: 3;
+    position: relative;
+}
